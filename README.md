@@ -12,7 +12,8 @@
 * Read my journal at [nmnx.org](https://nmnx.org)
 
 ### If you like my projects, please donate!
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDE5HFHREZXH6"><img src="https://img.shields.io/badge/paypal-diabloxenon-00457c.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal!" /></a>
+<!-- <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDE5HFHREZXH6"><img src="https://img.shields.io/badge/paypal-diabloxenon-00457c.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal!" /></a> -->
+<a href="https://www.paypal.me/diabloxenon"><img src="https://img.shields.io/badge/paypal-diabloxenon-00457c.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal!" /></a>
 <a href="https://ko-fi.com/diabloxenon"><img src="https://img.shields.io/badge/kofi-diabloxenon-f16061.svg?style=for-the-badge&logo=ko-fi" alt="Donate via Ko-Fi!!" /></a>
 <a href="https://nmnx.org/donate"><img src="https://img.shields.io/badge/bitcoin-diabloxenon-f7931a.svg?style=for-the-badge&logo=bitcoin" alt="Donate at my site" /></a>
 

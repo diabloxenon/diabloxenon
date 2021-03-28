@@ -25,6 +25,5 @@
 <a href="https://www.paypal.me/diabloxenon"><img src="https://img.shields.io/badge/paypal-diabloxenon-00457c.svg?style=for-the-badge&logo=paypal" alt="Donate via PayPal!" /></a>
 <a href="https://ko-fi.com/diabloxenon"><img src="https://img.shields.io/badge/kofi-diabloxenon-f16061.svg?style=for-the-badge&logo=ko-fi" alt="Donate via Ko-Fi!!" /></a>
 <a href="https://patreon.com/nmnx"><img src="https://img.shields.io/badge/patreon-nmnx-ff3030.svg?style=for-the-badge&logo=patreon" alt="Become a Patreon"></a>  
-<a href="https://nmnx.org/donate"><img src="https://img.shields.io/badge/crypto-diabloxenon-f7931a.svg?style=for-the-badge&logo=bitcoin" alt="Donate at my site" /></a>
+<a href="https://nmnx.org/donate"><img src="https://img.shields.io/badge/altcoin-diabloxenon-f7931a.svg?style=for-the-badge&logo=bitcoin" alt="Donate at my site" /></a>
 </p>
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=diabloxenon&show_icons=true&theme=merko) -->

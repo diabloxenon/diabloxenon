@@ -11,6 +11,9 @@
 * Loves to create open source projects that secures your stuff
 * You can read my journal at [nmnx.org](https://nmnx.org)
 
+### Coding Style
+* I follow the coding principles of Lean, Mean and Green code. More about this [here](https://nmnx.org/journal/lmg-style)
+
 <p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=diabloxenon&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues" height="150"/></a>
 </p>
 
